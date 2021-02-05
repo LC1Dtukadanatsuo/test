@@ -2,7 +2,7 @@
 
 int main()
 {	
-　 printf("tesｔ\n");
+　 printf("test\n");
   
   printf("ローカルリポジトリで変更した場所\n");
   
